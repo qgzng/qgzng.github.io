@@ -1,0 +1,485 @@
+{
+	"formatVersion": 1,
+	"appVersion": "0.56.1",
+	"files": [
+		{
+			"isClone": false,
+			"noteId": "IfoSEws6Pzut",
+			"notePath": [
+				"IfoSEws6Pzut"
+			],
+			"title": "Markdown",
+			"notePosition": 60,
+			"isExpanded": true,
+			"type": "text",
+			"mime": "text/html",
+			"attributes": [],
+			"format": "markdown",
+			"dirFileName": "Markdown",
+			"children": [
+				{
+					"isClone": false,
+					"noteId": "ReV3hQu3bUzu",
+					"notePath": [
+						"IfoSEws6Pzut",
+						"ReV3hQu3bUzu"
+					],
+					"title": "Markdown 基本语法",
+					"notePosition": 0,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "markdown",
+					"dirFileName": "Markdown 基本语法",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "evVGrJo6f0Oh",
+							"notePath": [
+								"IfoSEws6Pzut",
+								"ReV3hQu3bUzu",
+								"evVGrJo6f0Oh"
+							],
+							"title": "Markdown 基本语法",
+							"notePosition": 10,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "Markdown 基本语法.md"
+						},
+						{
+							"isClone": false,
+							"noteId": "nHud1DvJ2zZn",
+							"notePath": [
+								"IfoSEws6Pzut",
+								"ReV3hQu3bUzu",
+								"nHud1DvJ2zZn"
+							],
+							"title": "Markdown 标题语法",
+							"notePosition": 20,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "Markdown 标题语法.md"
+						},
+						{
+							"isClone": false,
+							"noteId": "jTlca8YcZRKX",
+							"notePath": [
+								"IfoSEws6Pzut",
+								"ReV3hQu3bUzu",
+								"jTlca8YcZRKX"
+							],
+							"title": "Markdown 段落",
+							"notePosition": 30,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "Markdown 段落.md"
+						},
+						{
+							"isClone": false,
+							"noteId": "LlYgHjrO0Bff",
+							"notePath": [
+								"IfoSEws6Pzut",
+								"ReV3hQu3bUzu",
+								"LlYgHjrO0Bff"
+							],
+							"title": "Markdown 换行语法",
+							"notePosition": 40,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "Markdown 换行语法.md"
+						},
+						{
+							"isClone": false,
+							"noteId": "C04Gz1aoW575",
+							"notePath": [
+								"IfoSEws6Pzut",
+								"ReV3hQu3bUzu",
+								"C04Gz1aoW575"
+							],
+							"title": "Markdown 强调语法",
+							"notePosition": 50,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "Markdown 强调语法.md"
+						},
+						{
+							"isClone": false,
+							"noteId": "pB8dMn6QJ0yT",
+							"notePath": [
+								"IfoSEws6Pzut",
+								"ReV3hQu3bUzu",
+								"pB8dMn6QJ0yT"
+							],
+							"title": "Markdown 引用语法",
+							"notePosition": 60,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "Markdown 引用语法.md"
+						},
+						{
+							"isClone": false,
+							"noteId": "4J8mBEamsTow",
+							"notePath": [
+								"IfoSEws6Pzut",
+								"ReV3hQu3bUzu",
+								"4J8mBEamsTow"
+							],
+							"title": "Markdown 列表语法",
+							"notePosition": 70,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "hJdQSTj4P5ni",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "markdown",
+							"dataFileName": "Markdown 列表语法.md",
+							"dirFileName": "Markdown 列表语法",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "hJdQSTj4P5ni",
+									"notePath": [
+										"IfoSEws6Pzut",
+										"ReV3hQu3bUzu",
+										"4J8mBEamsTow",
+										"hJdQSTj4P5ni"
+									],
+									"title": "image.png",
+									"notePosition": 10,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/png",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "szNBaBfj9Spp",
+							"notePath": [
+								"IfoSEws6Pzut",
+								"ReV3hQu3bUzu",
+								"szNBaBfj9Spp"
+							],
+							"title": "Markdown 代码语法",
+							"notePosition": 80,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "Markdown 代码语法.md"
+						},
+						{
+							"isClone": false,
+							"noteId": "b6a2Bd2yfCuo",
+							"notePath": [
+								"IfoSEws6Pzut",
+								"ReV3hQu3bUzu",
+								"b6a2Bd2yfCuo"
+							],
+							"title": "Markdown 分隔线语法",
+							"notePosition": 90,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "Markdown 分隔线语法.md"
+						},
+						{
+							"isClone": false,
+							"noteId": "Ob9cTiQjctG9",
+							"notePath": [
+								"IfoSEws6Pzut",
+								"ReV3hQu3bUzu",
+								"Ob9cTiQjctG9"
+							],
+							"title": "Markdown 链接语法",
+							"notePosition": 100,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "Markdown 链接语法.md"
+						},
+						{
+							"isClone": false,
+							"noteId": "KYF5c6yZJ2cq",
+							"notePath": [
+								"IfoSEws6Pzut",
+								"ReV3hQu3bUzu",
+								"KYF5c6yZJ2cq"
+							],
+							"title": "Markdown 图片语法",
+							"notePosition": 110,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "0hHMrpPlSCFM",
+									"isInheritable": false,
+									"position": 1
+								},
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "WINieueCvdeA",
+									"isInheritable": false,
+									"position": 2
+								}
+							],
+							"format": "markdown",
+							"dataFileName": "Markdown 图片语法.md",
+							"dirFileName": "Markdown 图片语法",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "WINieueCvdeA",
+									"notePath": [
+										"IfoSEws6Pzut",
+										"ReV3hQu3bUzu",
+										"KYF5c6yZJ2cq",
+										"WINieueCvdeA"
+									],
+									"title": "shiprock.c3b9a023.jpg",
+									"notePosition": 10,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "shiprock.c3b9a023.jpg",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://markdown.com.cn/assets/img/shiprock.c3b9a023.jpg",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "shiprock.c3b9a023.jpg"
+								},
+								{
+									"isClone": false,
+									"noteId": "0hHMrpPlSCFM",
+									"notePath": [
+										"IfoSEws6Pzut",
+										"ReV3hQu3bUzu",
+										"KYF5c6yZJ2cq",
+										"0hHMrpPlSCFM"
+									],
+									"title": "philly-magic-garden.9c0b4415.jpg",
+									"notePosition": 20,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "philly-magic-garden.9c0b4415.jpg",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://markdown.com.cn/assets/img/philly-magic-garden.9c0b4415.jpg",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "philly-magic-garden.9c0b4415.j"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "qP92m7CYwA8T",
+							"notePath": [
+								"IfoSEws6Pzut",
+								"ReV3hQu3bUzu",
+								"qP92m7CYwA8T"
+							],
+							"title": "Markdown 转义字符语法",
+							"notePosition": 120,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "Markdown 转义字符语法.md"
+						},
+						{
+							"isClone": false,
+							"noteId": "p5ADYhSHBVLb",
+							"notePath": [
+								"IfoSEws6Pzut",
+								"ReV3hQu3bUzu",
+								"p5ADYhSHBVLb"
+							],
+							"title": "Markdown 内嵌 HTML 标签",
+							"notePosition": 130,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "Markdown 内嵌 HTML 标签.md"
+						}
+					]
+				},
+				{
+					"isClone": false,
+					"noteId": "atjvaeUNLKN5",
+					"notePath": [
+						"IfoSEws6Pzut",
+						"atjvaeUNLKN5"
+					],
+					"title": "Markdown 语法速查表",
+					"notePosition": 10,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "markdown",
+					"dataFileName": "Markdown 语法速查表.md"
+				},
+				{
+					"isClone": false,
+					"noteId": "cFmrLHTcgORq",
+					"notePath": [
+						"IfoSEws6Pzut",
+						"cFmrLHTcgORq"
+					],
+					"title": "Markdown 入门基础",
+					"notePosition": 20,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [
+						{
+							"type": "relation",
+							"name": "imageLink",
+							"value": "d3mZlkpnIAwW",
+							"isInheritable": false,
+							"position": 1
+						},
+						{
+							"type": "relation",
+							"name": "imageLink",
+							"value": "Y11IMLKwsg38",
+							"isInheritable": false,
+							"position": 2
+						}
+					],
+					"format": "markdown",
+					"dataFileName": "Markdown 入门基础.md",
+					"dirFileName": "Markdown 入门基础",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "Y11IMLKwsg38",
+							"notePath": [
+								"IfoSEws6Pzut",
+								"cFmrLHTcgORq",
+								"Y11IMLKwsg38"
+							],
+							"title": "image.png",
+							"notePosition": 10,
+							"isExpanded": false,
+							"type": "image",
+							"mime": "image/png",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "originalFileName",
+									"value": "image.png",
+									"isInheritable": false,
+									"position": 1000
+								}
+							],
+							"dataFileName": "image.png"
+						},
+						{
+							"isClone": false,
+							"noteId": "d3mZlkpnIAwW",
+							"notePath": [
+								"IfoSEws6Pzut",
+								"cFmrLHTcgORq",
+								"d3mZlkpnIAwW"
+							],
+							"title": "notepad.3541bd12.png",
+							"notePosition": 20,
+							"isExpanded": false,
+							"type": "image",
+							"mime": "image/png",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "originalFileName",
+									"value": "notepad.3541bd12.png",
+									"isInheritable": false,
+									"position": 1000
+								},
+								{
+									"type": "label",
+									"name": "imageUrl",
+									"value": "https://markdown.com.cn/assets/img/notepad.3541bd12.png",
+									"isInheritable": false,
+									"position": 1000
+								}
+							],
+							"dataFileName": "notepad.3541bd12.png"
+						}
+					]
+				}
+			]
+		}
+	]
+}
